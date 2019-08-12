@@ -8,8 +8,8 @@
 :: VARIABLES
 echo "ATTENTION"
 echo "USER MUST CHECK/SET THESE VARIABLES:"
-SET PYTHON_DIR=%SYSTEMDRIVE%\home\python354x64
-SET PYTHON_EXE=%SYSTEMDRIVE%\home\python354x64\python.exe
+SET PYTHON_DIR=%SYSTEMDRIVE%\home\python364x64
+SET PYTHON_EXE=%SYSTEMDRIVE%\home\python364x64\python.exe
 ::SET CNTK_BIN=https://azurewebappcntk.blob.core.windows.net/cntkrc/cntk.zip
 echo "Installed python extension installed here:"
 echo %PYTHON_EXE%
